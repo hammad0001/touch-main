@@ -1,0 +1,33 @@
+.faq-row-wrapper {
+	background: transparent !important;
+	padding: 2rem;
+}
+
+.faq-title h2 {
+	color: white !important;
+	font-weight: 700;
+	font-size: 1.5rem !important;
+	line-height: 1.5rem !important;
+	text-align: center !important;
+}
+
+.faq-body .row-title {
+	font-size: 1.25rem;
+	color: #fff !important;
+}
+
+.faq-body .row-content-text {
+	color: #fff !important;
+}
+.icon-wrapper {
+	color: #fff !important;
+}
+@media (min-width: 768px) {
+	.faq-title h2 {
+		color: white !important;
+		font: bold !important;
+		font-size: 2.25rem !important;
+		line-height: 2.5rem !important;
+		text-align: center !important;
+	}
+}
